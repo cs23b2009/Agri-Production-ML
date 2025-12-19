@@ -7,8 +7,11 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.25+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/ML-Production--Ready-green?style=for-the-badge)
+![Live App](https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
+
+## 🔗 [Live Application: agriml.streamlit.app](https://agriml.streamlit.app/)
 
 ## 👨‍💻 ML Engineering & Deployment by Indra Kumar
 This project represents a full-scale architectural transformation of a traditional ML experiment into a robust, modular, and scalable production application. 
